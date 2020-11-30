@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color:rgb(51, 51, 51) !important;
+    position: absolute;
+    width:100%;
+}
+.navbar-nav a,
+.navbar-brand{
+    color: #fff !important;
+}
+.navbar-brand span{
+    color:crimson;
+}
+.home-page{
+    background-image: url('muyndong15.jpg');
+    min-height:100vh;
+    width:100%;
+    background-size:cover;
+    background-position:top center;
+}
